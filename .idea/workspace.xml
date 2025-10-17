@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5439aa1-a428-491f-8c15-8deafe2e1071" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/grafico_etiquetas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Equipo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Equipo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/generar_etiquetas_qr.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/generar_etiquetas_qr.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/warn-generar_etiquetas_qr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/warn-generar_etiquetas_qr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generar_etiquetas_qr/xref-generar_etiquetas_qr.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/generar_etiquetas_qr/xref-generar_etiquetas_qr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/generar_etiquetas_qr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/generar_etiquetas_qr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/equipos.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generar_etiquetas_qr.py" beforeDir="false" afterPath="$PROJECT_DIR$/generar_etiquetas_qr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/Etiquetas_QR.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/Etiquetas_QR.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_002.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_003.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_004.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_005.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_006.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_007.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_007.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_008.png" beforeDir="false" afterPath="$PROJECT_DIR$/salida_etiquetas/png/etiqueta_008.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +50,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jac-se&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jac-se/Genraretiqueta.git&quot;,
+    &quot;accountId&quot;: &quot;bf79e446-a716-44f7-830d-a5f79f048c13&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,14 +75,53 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.generar_etiquetas_qr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grafico_etiquetas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/jcisneros/PycharmProjects/Equipo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.grafico_etiquetas">
     <configuration name="generar_etiquetas_qr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Equipo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generar_etiquetas_qr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grafico_etiquetas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Equipo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,7 +134,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generar_etiquetas_qr.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grafico_etiquetas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Equipo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,14 +169,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grafico_etiquetas" />
         <item itemvalue="Python.generar_etiquetas_qr" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -86,7 +190,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757532163763</updated>
+      <workItem from="1759949811151" duration="638000" />
+      <workItem from="1759954622652" duration="86000" />
+      <workItem from="1759954787672" duration="46000" />
+      <workItem from="1759955349859" duration="58000" />
+      <workItem from="1759955422789" duration="74000" />
+      <workItem from="1760540993993" duration="408000" />
+      <workItem from="1760542017121" duration="582000" />
+      <workItem from="1760542861504" duration="752000" />
+      <workItem from="1760543657305" duration="41000" />
+      <workItem from="1760545039539" duration="138000" />
+      <workItem from="1760550374054" duration="18265000" />
+      <workItem from="1760718581703" duration="3764000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Equipo$generar_etiquetas_qr.coverage" NAME="generar_etiquetas_qr Coverage Results" MODIFIED="1760631021875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Equipo$grafico_etiquetas.coverage" NAME="grafico_etiquetas Coverage Results" MODIFIED="1760634417823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Equipo$main.coverage" NAME="main Coverage Results" MODIFIED="1760550608855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
